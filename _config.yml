@@ -99,7 +99,7 @@ analytics:
   provider               : "google-gtag" 
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-5HQPK7RHNC"
+    tracking_id          : "G-72VSHBM64T"
     anonymize_ip         : # true, false (default)
 # analytics:
 #   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
