@@ -21,6 +21,10 @@
                     {% if category[0] == "C_Programming" %}
                         <li><a href="/categories/C_Programming" class="">C언어 ({{category[1].size}})</a></li>
                     {% endif %}
+                
+                    {% if category[0] == "Python_Programming" %}
+                        <li><a href="/categories/Python_Programming" class="">파이썬 ({{category[1].size}})</a></li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </li>
