@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Whal3"
-  avatar           : "/assets/images/whale.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/whale.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "컴퓨터 공부하는 대학생"
   location         : "Republic of Korea"
   email            : # "leehan416@gmail.com"
