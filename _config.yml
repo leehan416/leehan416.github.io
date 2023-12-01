@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "kr-KR"
@@ -111,14 +111,21 @@ analytics:
 # Site Author
 author:
   name             : "Whal3"
-  avatar           : "/assets/images/whale.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "컴퓨터 공부하는 대학생"
-  location         : "Republic of Korea"
+  location         : "Seoul Korea"
   email            : # "leehan416@gmail.com"
   links:
-    - label: "Email"
+    - label: "leehan416@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:leehan416@gmail.com"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/leehan416"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/leehan416"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
@@ -128,34 +135,21 @@ author:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/leehan416"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    # - label: "GitHub"
-      # icon: "fab fa-fw fa-github"
-      # url: "https://github.com/leehan416"
-    # - label: "Facebook"
-      # icon: "fab fa-fw fa-facebook-square"
-      # url:
-    #- label: "GitHub"
-      #icon: "fab fa-fw fa-github"
-      # url:
-    # - label: "GitLab"
-      # icon: "fab fa-fw fa-gitlab"
-      # url:
-    # - label: "Bitbucket"
-      # icon: "fab fa-fw fa-bitbucket"
-      # url:
-    # - label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:leehan416@gmail.com"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/leehan416"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/leehan416"
+
 
 
 # Reading Files
